@@ -1,2 +1,2 @@
-FROM nginix:Latest
-ADD . /usr/share/nginix/html
+FROM nginx:Latest
+ADD . /usr/share/nginx/html
